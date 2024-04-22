@@ -1,0 +1,14 @@
+body {
+    background-color:rgb(221, 221, 221)
+}
+#tituloImportante {
+font-family: 'Courier New', Courier, monospace;
+font-size: 30px;
+}
+.subTitulos {
+    font-family: cursive;
+}
+.prfoOrigenes {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+}
